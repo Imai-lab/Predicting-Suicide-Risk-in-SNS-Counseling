@@ -32,7 +32,7 @@ Figure 2-4. SHAP beeswarm plots for M2.
 
 Figure 2-5. SHAP beeswarm plots for M3.
 
-[!TIP] Considering actual use in the consultation, for use cases where the SHAP values in each case are referenced along with the preliminary information (i.e., MQ and CT), it may be better to use M2, which has high interpretability, even if its accuracy is slightly inferior.
+Considering actual use in the consultation, for use cases where the SHAP values in each case are referenced along with the preliminary information (i.e., MQ and CT), it may be better to use M2, which has high interpretability, even if its accuracy is slightly inferior.
 
 ### 4.2 _Error Analysis_
 
